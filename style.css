@@ -1,0 +1,52 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* About Me Section */
+  #about-me {
+    background-color: #f9f9f9;
+    padding: 20px;
+  }
+  
+  #about-me img {
+    max-width: 200px;
+    border-radius: 50%;
+  }
+  
+  /* Contact Information Section */
+  #contact {
+    background-color: #fff;
+    padding: 20px;
+  }
+  
+  #contact a {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  /* Portfolio Section */
+  #portfolio {
+    background-color: #f9f9f9;
+    padding: 20px;
+  }
+  
+  .project {
+    margin-bottom: 20px;
+  }
+  
+  /* Resume/CV Section */
+  #resume {
+    background-color: #fff;
+    padding: 20px;
+  }
+  
+  #resume a {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+  }
